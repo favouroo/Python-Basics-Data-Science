@@ -5,3 +5,6 @@ String Operations, List and Tuples, Dictionaries, Sets, Conditions and Branching
 
 I'll suggest a comprehensive yet simple way to go about it by dividing my journey into groups. This will help you navigate your way semlessly 😁. Do not forget to reach for, or learn from other materials.
 I have put this up as a guide so you do not have to encounter many hassles with respect to Python for Data Science "roadmap" 🤝🫶.
+
+##### Important things to note
+- Use the "#" symbol to make comments in a code block. This will prevent your code from mistaking your statement for an actual code. If you don't do this, you will get an error prompt.
